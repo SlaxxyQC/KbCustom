@@ -1,0 +1,14 @@
+# Plugin : SlaxxyQC
+
+name: KbCustom
+main: KbCustom\Core\Main
+version: 1.0.0
+api: 4.0.0
+author: SlaxxyQC
+description: Ce plugin fait en sorte que vous pouvez changer les kb de votre serveur !
+
+permissions:
+  kbcustom.use:
+    description: Permission pour changer les kb du serveur !
+    default: op
+
